@@ -1,0 +1,5 @@
+{
+  "name": "TAMBAR - Elite Spirits Collection",
+  "description": "A premium, high-end catalog for world-class liquors and exclusive spirits, featuring AI-generated product imagery and an expert sommelier assistant.",
+  "requestFramePermissions": ["geolocation"]
+}
